@@ -11,3 +11,5 @@ Fuchsia
 Purple
 Brown
 Red
+
+Some changes here to check the diff command output
